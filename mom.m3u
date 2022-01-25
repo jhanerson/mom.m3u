@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="4775" group="CO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1044px-Channel_1_%28Colombia%29_-_2017_logo.svg.png", CANAL UNO
 http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/259
+#EXTINF:0 type="stream" channelId="-1", 31 | DISCOVERY ID ®
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2810
+#EXTINF:0 type="stream" channelId="-1", SUR | WIN SPORTS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/137967
 #EXTINF:0 type="stream" channelId="4745" group="CO", TELEANTOQUIA
 http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/269
 #EXTINF:0 type="stream" channelId="4031" group="CO", RCN
@@ -85,8 +89,6 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2807
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2808
 #EXTINF:0 type="stream" channelId="-1", 30 | DISCOVERY H&H ®
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2809
-#EXTINF:0 type="stream" channelId="-1", 31 | DISCOVERY ID ®
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2810
 #EXTINF:0 type="stream" channelId="-1", 32 | DISCOVERY KIDS ®
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2811
 #EXTINF:0 type="stream" channelId="-1", 33 | DISCOVERY SCIENCE ®
@@ -553,8 +555,6 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4861
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4853
 #EXTINF:0 type="stream" channelId="-1", SUR | CANAL 13
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4847
-#EXTINF:0 type="stream" channelId="-1", SUR | WIN SPORTS
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/137967
 #EXTINF:0 type="stream" channelId="-1", SUR | DISCOVERY HOME AND HEALTH
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4809
 #EXTINF:0 type="stream" channelId="-1", SUR | HISTORY CHANNEL

@@ -1,24 +1,23 @@
 #EXTM3U 
 #EXTINF:0 type="stream" channelId="4775" group="CO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1044px-Channel_1_%28Colombia%29_-_2017_logo.svg.png", CANAL UNO
 http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/259
-#EXTINF:0 type="stream" channelId="-1", 31 | DISCOVERY ID ®
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/2112
-#EXTINF:0 type="stream" channelId="4745" group="CO", TELEANTOQUIA
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/269
-#EXTINF:0 type="stream" channelId="-1", SUR | CARACOL NACIONAL
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4810
-#EXTINF:0 type="stream" channelId="4031" group="CO", RCN
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/267
-#EXTINF:0 type="stream" channelId="4031" group="CO", RCN NUESTRA TELE
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4811
-#EXTINF:0 type="stream" channelId="3782" group="CO", RCN Novelas
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4896
 #EXTINF:0 type="stream" channelId="4773" group="CO", CARACOL
 http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/260
+#EXTINF:0 type="stream" channelId="-1", SUR | CARACOL NACIONAL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4810
 #EXTINF:0 type="stream" channelId="4773" group="CO", CARACOL HD 2
 http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/262
 #EXTINF:0 type="stream" channelId="3733" group="CO", CARACOL INTERNACIONAL
 http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/263
+#EXTINF:0 type="stream" channelId="4031" group="CO", RCN
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/267
+#EXTINF:0 type="stream" channelId="3782" group="CO", RCN Novelas
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4896
+
+#EXTINF:0 type="stream" channelId="4745" group="CO", TELEANTOQUIA
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/269
+
+
 #EXTINF:0 type="stream" channelId="4770" group="CO", CABLENOTICIAS
 http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/2
 #EXTINF:0 type="stream" channelId="3780" group="CO", NTN24
@@ -37,6 +36,8 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2070
 http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/271
 #EXTINF:0 type="stream" channelId="3799" group="CO", TV AGRO
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3586
+#EXTINF:0 type="stream" channelId="-1", 31 | DISCOVERY ID ®
+http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/2112
 #EXTINF:0 type="stream" channelId="-1", SUR | WIN SPORTS
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/137967
 #EXTINF:0 type="stream" channelId="-1", 27 | PANAMERICANA HD

@@ -1,46 +1,20 @@
-#EXTM3U 
-#EXTINF:0 type="stream" channelId="4775" group="CO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1044px-Channel_1_%28Colombia%29_-_2017_logo.svg.png", CANAL UNO
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/259
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", SUR | DISCOVERY INVESTIGATION
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4790
 #EXTINF:0 type="stream" channelId="-1", SUR | CARACOL NACIONAL
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4810
-#EXTINF:0 type="stream" channelId="4773" group="CO", CARACOL HD 2
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/262
-#EXTINF:0 type="stream" channelId="3733" group="CO", CARACOL INTERNACIONAL
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/263
-#EXTINF:0 type="stream" channelId="4773" group="CO", CARACOL
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/260
-#EXTINF:0 type="stream" channelId="4031" group="CO", RCN
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/267
 #EXTINF:0 type="stream" channelId="3782" group="CO", RCN Novelas
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4896
-#EXTINF:0 type="stream" channelId="4745" group="CO", TELEANTOQUIA
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/269
-#EXTINF:0 type="stream" channelId="-1" group="CO" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rWpS3eO-yaRZSULssIrvOfORTdHOcLXJu20sOuSme2pApGUvUCjlS3O67HjQ3y_S_6o&usqp=CAU", TELEMEDELLIN
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/272
 #EXTINF:0 type="stream" channelId="2488" group="CO", SEÑAL COLOMBIA
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4875
-#EXTINF:0 type="stream" channelId="4770" group="CO", CABLENOTICIAS
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/2
-#EXTINF:0 type="stream" channelId="4786" group="CO", CO | TELEPACIFICO *HD
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/273
-#EXTINF:0 type="stream" channelId="4785" group="CO", CO | TELECARIBE
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/271
-#EXTINF:0 type="stream" channelId="3780" group="CO", NTN24
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/266
-#EXTINF:0 type="stream" channelId="4771" group="CO", CANAL TRECE
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/275
+#EXTINF:0 type="stream" channelId="-1", SUR | TELEPACIFICO
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4863
 #EXTINF:0 type="stream" channelId="2124", ANTENA 3
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2070
-#EXTINF:0 type="stream" channelId="50", GLITZ HD
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/363
 #EXTINF:0 type="stream" channelId="-1", 63 | TELEMUNDO ®
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3024
 #EXTINF:0 type="stream" channelId="-1", 72 | CANAL U ®
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3034
-#EXTINF:0 type="stream" channelId="-1", 31 | DISCOVERY ID ®
-http://disfruta.net:80/jhanersongutierrez/TGF04NyqZs/2112
-#EXTINF:0 type="stream" channelId="-1", SUR | WIN SPORTS
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/137967
 #EXTINF:0 type="stream" channelId="-1", 64 | WIN SPORTS ®
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3025
 #EXTINF:0 type="stream" channelId="-1", 27 | PANAMERICANA HD
@@ -61,14 +35,10 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2800
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3537
 #EXTINF:0 type="stream" channelId="-1", ES || CANAL PANDA
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126409
-#EXTINF:0 type="stream" channelId="-1", ES || DISNEY  XD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126403
 #EXTINF:0 type="stream" channelId="-1", ES || A3SERIES
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126387
 #EXTINF:0 type="stream" channelId="-1" group="CINE", Star Channell
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2693
-#EXTINF:0 type="stream" channelId="-1" group="CINE", STAR CINEMA
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2695
 #EXTINF:0 type="stream" channelId="-1" group="CINE", STAR COMEDY
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2696
 #EXTINF:0 type="stream" channelId="-1" group="CINE", STAR FAMILY
@@ -105,8 +75,6 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2802
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2803
 #EXTINF:0 type="stream" channelId="-1", 26 | COMEDY CENTRAL ®
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2805
-#EXTINF:0 type="stream" channelId="-1", 28 | DISCOVERY CHANNEL®
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2807
 #EXTINF:0 type="stream" channelId="-1", 29 | DISCOVERY CIVILITATION ®
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2808
 #EXTINF:0 type="stream" channelId="-1", 30 | DISCOVERY H&H ®
@@ -143,8 +111,6 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3015
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3017
 #EXTINF:0 type="stream" channelId="-1", 58 | AMC ®
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3019
-#EXTINF:0 type="stream" channelId="-1", 59 | A&E ®
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3020
 #EXTINF:0 type="stream" channelId="-1", 61 | NICK 2 ®
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3022
 #EXTINF:0 type="stream" channelId="-1", 62 | NICK ®
@@ -173,46 +139,12 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126448
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126447
 #EXTINF:0 type="stream" channelId="-1", ES || TAQUILLA 1
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126446
-#EXTINF:0 type="stream" channelId="-1", 01 |  MC 90's
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3173
-#EXTINF:0 type="stream" channelId="-1", 04 |  VEVO 80's Hits
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3176
-#EXTINF:0 type="stream" channelId="-1", 69| MTV®
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3031
-#EXTINF:0 type="stream" channelId="-1", 18 | Telemusica 2K Hits
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3190
-#EXTINF:0 type="stream" channelId="-1", 12 |  World Street Music Hits
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3184
 #EXTINF:0 type="stream" channelId="2109", --------- Series -----------
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126349
-#EXTINF:0 type="stream" channelId="-1", ES || PARAMOUNT CHANNEL
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126348
-#EXTINF:0 type="stream" channelId="-1", ES || SOMOS
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126347
-#EXTINF:0 type="stream" channelId="-1", ES || COMEDY CENTRAL HD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126345
-#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR CINEDOC&ROLL HD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126344
-#EXTINF:0 type="stream" channelId="-1", ES || XTREM SD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126343
-#EXTINF:0 type="stream" channelId="-1", ES || SUNDANCE FHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126341
-#EXTINF:0 type="stream" channelId="-1", ES || SUNDANCE
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126340
-#EXTINF:0 type="stream" channelId="-1", ES || TCM FHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126339
-#EXTINF:0 type="stream" channelId="-1", ES || TCM HD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126338
-#EXTINF:0 type="stream" channelId="-1", ES || HOLLYWOOD FHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126336
 #EXTINF:0 type="stream" channelId="-1", ES || HOLLYWOOD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126335
-#EXTINF:0 type="stream" channelId="-1", ES || HOLLYWOOD HD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126334
 #EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR CINEDOC&ROLL
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126332
-#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR DRAMA FHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126330
 #EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR DRAMA HD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126329
 #EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR  ACCION
@@ -221,46 +153,10 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126323
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126322
 #EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR ESTRENOS
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126320
-#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR ESTRENOS HD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126319
-#EXTINF:0 type="stream" channelId="-1", ES || MOVISTAR 0# FULLHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126318
-#EXTINF:0 type="stream" channelId="-1", ES || LA SEXTA  FHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126315
-#EXTINF:0 type="stream" channelId="-1", ES || TELECINCO FULLHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126312
 #EXTINF:0 type="stream" channelId="-1", ES || TELECINCO
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126310
-#EXTINF:0 type="stream" channelId="-1", ES || CUATRO FHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126309
 #EXTINF:0 type="stream" channelId="-1", ES || ANTENA 3 FHD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126306
-#EXTINF:0 type="stream" channelId="-1", ES || La 2 FHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126303
-#EXTINF:0 type="stream" channelId="-1", ES || LA 1 FHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126301
-#EXTINF:0 type="stream" channelId="-1", SPAIN | FOX HD HEVC
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126282
-#EXTINF:0 type="stream" channelId="-1", SPAIN | MOVISTAR DRAMA HD HEVC
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126279
-#EXTINF:0 type="stream" channelId="-1", SPAIN | COSMO.
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126278
-#EXTINF:0 type="stream" channelId="-1", SPAIN | ODISEA FHD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126277
-#EXTINF:0 type="stream" channelId="-1", SPAIN | MOVISTAR FORMULA 1 HD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126276
-#EXTINF:0 type="stream" channelId="-1", SPAIN | MOVISTAR ESTRENOS
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126275
-#EXTINF:0 type="stream" channelId="-1", SPAIN | HISTORIA
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126274
-#EXTINF:0 type="stream" channelId="-1", SPAIN | ACCION HD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126272
-#EXTINF:0 type="stream" channelId="-1", 05 | TELENOVELAS HD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/8015
-#EXTINF:0 type="stream" channelId="-1", ARG | LA 90 FM
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/7421
-#EXTINF:0 type="stream" channelId="-1", ARG | HBO POP SD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5065
 #EXTINF:0 type="stream" channelId="-1", ARG | TOONCAST SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/5064
 #EXTINF:0 type="stream" channelId="-1", ARG | TNT SERIES SD
@@ -281,16 +177,10 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4950
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4949
 #EXTINF:0 type="stream" channelId="-1", ARG | FOX LIFE SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4948
-#EXTINF:0 type="stream" channelId="-1", ARG | FOX FAMILY SD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4947
 #EXTINF:0 type="stream" channelId="-1", ARG | FOX COMEDY SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4946
 #EXTINF:0 type="stream" channelId="-1", ARG | FOX CLASSIC SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4945
-#EXTINF:0 type="stream" channelId="-1", ARG | FOX CINEMA SD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4944
-#EXTINF:0 type="stream" channelId="-1", ARG | FOX ACTION SD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4943
 #EXTINF:0 type="stream" channelId="-1", ARG | FOX SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4942
 #EXTINF:0 type="stream" channelId="-1", ARG | ESPN EXTRA SD
@@ -301,20 +191,14 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4940
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4938
 #EXTINF:0 type="stream" channelId="-1", ARG | ENLACE TV SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4937
-#EXTINF:0 type="stream" channelId="-1", ARG | E! ENTERTAIMENTS SD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4936
 #EXTINF:0 type="stream" channelId="-1", ARG | DISNEY XD SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4935
 #EXTINF:0 type="stream" channelId="-1", ARG | DISNEY CHANNEL SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4933
 #EXTINF:0 type="stream" channelId="-1", ARG | COMEDY CENTRAL SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4924
-#EXTINF:0 type="stream" channelId="-1", ARG | CNN ESPANOL SD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4922
 #EXTINF:0 type="stream" channelId="-1", ARG | CINE LATINO SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4921
-#EXTINF:0 type="stream" channelId="-1", ARG | CDN 37 SD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4920
 #EXTINF:0 type="stream" channelId="-1", ARG | CARTOON NETWORK SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4919
 #EXTINF:0 type="stream" channelId="-1", ARG | BOOMERANG SD
@@ -325,18 +209,10 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4914
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4912
 #EXTINF:0 type="stream" channelId="-1", ARG | ANIMAL PLANET SD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4910
-#EXTINF:0 type="stream" channelId="-1", 04 | RCN NOVELAS
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4896
 #EXTINF:0 type="stream" channelId="-1", 21 | UNICANAL SUR
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4895
 #EXTINF:0 type="stream" channelId="-1", 20 | TELEFUTURO SUR
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4894
-#EXTINF:0 type="stream" channelId="-1", SUR | TELEPACIFICO
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4863
-#EXTINF:0 type="stream" channelId="-1", SUR | RED TELEVISION
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4862
-#EXTINF:0 type="stream" channelId="-1", 05 | AMERICA NEXT SUR
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4861
 #EXTINF:0 type="stream" channelId="-1", SUR | CNN Espanol
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4853
 #EXTINF:0 type="stream" channelId="-1", SUR | CANAL 13
@@ -377,8 +253,6 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4793
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4792
 #EXTINF:0 type="stream" channelId="-1", SUR | DISCOVERY KIDS
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4791
-#EXTINF:0 type="stream" channelId="-1", SUR | DISCOVERY INVESTIGATION
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4790
 #EXTINF:0 type="stream" channelId="-1", SUR | FX MOVIES
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4789
 #EXTINF:0 type="stream" channelId="-1", SUR | FX

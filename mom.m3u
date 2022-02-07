@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1",  | DISCOVERY INVESTIGATION
+#EXTINF:0 type="stream" channelId="-1", |DISCOVERY INVESTIGATION
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4790
-#EXTINF:0 type="stream" channelId="-1",  |CARACOL NACIONAL
+#EXTINF:0 type="stream" channelId="-1", |CANAL UNO
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3570
+#EXTINF:0 type="stream" channelId="-1", |CARACOL NACIONAL
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4810
 #EXTINF:0 type="stream" channelId="3782" group="CO",| RCN NOVELAS 
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4896
@@ -301,3 +303,14 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3307
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3316
 #EXTINF:0 type="stream" channelId="-1",  |WIN SPORTS 
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3025
+#EXTINF:0 type="stream" channelId="-1",TOM Y JERRY
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/129327
+#EXTINF:0 type="stream" channelId="-1",CINE INFANTIL 24/7
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2554
+#EXTINF:0 type="stream" channelId="-1", |TELENOVELAS
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3678
+#EXTINF:0 type="stream" channelId="-1", |WIN+
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/131984
+#EXTINF:0 type="stream" channelId="-1",TELEMUNDO I
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2054
+

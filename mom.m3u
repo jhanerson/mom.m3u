@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",|| TELEMEDELLIN 
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3590
 #EXTINF:0 type="stream" channelId="-1",  | ENTERTAIMENTS 
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3029
 #EXTINF:0 type="stream" channelId="-1",  | NATIONAL GEOGRAFIC WILD
@@ -7,26 +9,28 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126429
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2799
 #EXTINF:0 type="stream" channelId="-1",  | DISCOVERY  CHANNEL
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126420
+#EXTINF:0 type="stream" channelId="-1",| ID 2
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/135673
 #EXTINF:0 type="stream" channelId="50",  | ANIMAL PLANET
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2800
-#EXTINF:0 type="stream" channelId="2124",| ANTENA 3
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2070
 #EXTINF:0 type="stream" channelId="-1",  | TELEMUNDO 
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3024
 #EXTINF:0 type="stream" channelId="-1",  | CANAL UNIVISION 
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3034
 #EXTINF:0 type="stream" channelId="-1",  | PANAMERICANA HD
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3350
-#EXTINF:0 type="stream" channelId="-1",  | TVN HD
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3525
+#EXTINF:0 type="stream" channelId="-1", CINE INFANTIL
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2555
 #EXTINF:0 type="stream" channelId="-1",  | PAKA PAKA
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3537
 #EXTINF:0 type="stream" channelId="-1",  | CANAL PANDA
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126409
 #EXTINF:0 type="stream" channelId="-1",  | A3SERIES
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/126387
-#EXTINF:0 type="stream" channelId="-1" group="CINE", | STAR FAMILY
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2697
+#EXTINF:0 type="stream" channelId="2124",| ANTENA 3
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2070
+#EXTINF:0 type="stream" channelId="-1",  | TVN HD
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3525
 #EXTINF:0 type="stream" channelId="-1" group="CINE", | STAR CHANNEL
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2693
 #EXTINF:0 type="stream" channelId="-1" group="CINE", | STAR COMEDY
@@ -297,6 +301,8 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3025
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/129327
 #EXTINF:0 type="stream" channelId="-1",| CINE INFANTIL 24/7
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2554
+#EXTINF:0 type="stream" channelId="-1",| LOS PICAPIEDRA
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/129349
 #EXTINF:0 type="stream" channelId="-1", | TELENOVELAS
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/3678
 #EXTINF:0 type="stream" channelId="-1", | WIN+
@@ -307,8 +313,7 @@ http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2054
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4910
 #EXTINF:0 type="stream" channelId="-1",| ID 
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4790
-#EXTINF:0 type="stream" channelId="-1",| ID 2
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/135673
+
 #EXTINF:0 type="stream" channelId="-1",| VENEVISION
 http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/4877
 

@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1",||CITY TV
-http://tvpremiumhd.club/lista-gratuita/paris/s226.m3u8
-#EXTINF:0 type="stream" channelId="-1",||EL CHAVO
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:0 type="stream" channelId="-1",||AZTECA
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0 type="stream" channelId="-1",||WARNER
 http://45.179.140.242:8000/play/a0ia
 

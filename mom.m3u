@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1",||WARNER
 http://45.179.140.242:8000/play/a0ia
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="TV ShortGod",ESPN
 http://gratis.shortgod.com/descarga-shortgod211/tv2.php?c=10510
 #EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="" group-title="TV ShortGod",A24
